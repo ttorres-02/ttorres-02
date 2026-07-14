@@ -72,7 +72,6 @@ My next portfolio project is a basic **Cookie Scanner** designed to identify coo
 
 I am open to opportunities in privacy, data protection, compliance and GRC, particularly roles that combine regulatory knowledge with technology.
 
-* [LinkedIn](www.linkedin.com/in/tomas-torres94)
 * [GitHub](https://github.com/ttorres-02)
 
 <!--
